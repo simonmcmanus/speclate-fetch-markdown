@@ -1,23 +1,27 @@
 {
-  "name": "speclate-fetch-markdown",
-  "version": "1.0.0",
-  "description": "turn markdown files into html pages for use with speclate",
-  "main": "index.js",
-  "scripts": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/simonmcmanus/speclate-fetch-markdown.git"
-  },
-  "author": "Simon McManus",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/simonmcmanus/speclate-fetch-markdown/issues"
-  },
-  "homepage": "https://github.com/simonmcmanus/speclate-fetch-markdown#readme",
-  "dependencies": {
-    "async": "^2.0.0",
-    "marked": "^0.3.5",
-    "superagent": "^2.1.0"
-  }
+    "name": "speclate-fetch-markdown",
+    "version": "1.0.0",
+    "description": "turn markdown files into html pages for use with speclate",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/simonmcmanus/speclate-fetch-markdown.git"
+    },
+    "author": "Simon McManus",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/simonmcmanus/speclate-fetch-markdown/issues"
+    },
+    "homepage": "https://github.com/simonmcmanus/speclate-fetch-markdown#readme",
+    "dependencies": {
+        "async": "^2.0.0",
+        "marked": "^0.3.5",
+        "superagent": "^2.1.0"
+    },
+    "bundledDependencies": [
+        "async",
+        "marked",
+        "superagent"
+    ]
 }

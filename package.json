@@ -4,7 +4,6 @@
   "description": "turn markdown files into html pages for use with speclate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

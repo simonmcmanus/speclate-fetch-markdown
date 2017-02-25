@@ -1,5 +1,7 @@
 # speclate-fetch-markdown
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/simonmcmanus/speclate-fetch-markdown.svg)](https://greenkeeper.io/)
+
 
 Given an object:
 

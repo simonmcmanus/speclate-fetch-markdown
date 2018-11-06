@@ -17,7 +17,7 @@
     "dependencies": {
         "async": "^2.0.0",
         "marked": "^0.3.5",
-        "superagent": "^2.1.0"
+        "superagent": "^3.8.3"
     },
     "bundledDependencies": [
         "async",

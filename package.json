@@ -15,7 +15,7 @@
     },
     "homepage": "https://github.com/simonmcmanus/speclate-fetch-markdown#readme",
     "dependencies": {
-        "async": "^2.0.0",
+        "async": "^3.2.2",
         "marked": "^0.6.3",
         "superagent": "^3.8.3"
     },
